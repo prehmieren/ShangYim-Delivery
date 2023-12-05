@@ -2,7 +2,7 @@
 <string>Funtions</string>
 <ul>
   <li>Filter-function from types of food</li>
-  <li>Search-function</li>
+ 
 </ul>
 There are still a few things to do:
 <ul>
